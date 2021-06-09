@@ -12,7 +12,11 @@
           "id" : 152,
           "imageName": "1743fsahdh388.jpeg"
         }
-      ]
+      ],
+ "streets": [
+    "address1",
+    "address2"
+  ]
 },
  {
  "coffee_type_id" : "2",
@@ -28,6 +32,11 @@
           "imageName": "1743fsahdh388.jpeg"
         }
       ]
+  ,
+  "streets": [
+    "address1",
+    "address2"
+  ]
 },
  {
  "coffee_type_id" : "3",
@@ -42,7 +51,11 @@
           "id" : 152,
           "imageName": "1743fsahdh388.jpeg"
         }
-      ]
+      ],
+  "streets": [
+    "address1",
+    "address2"
+  ]
 },
  {
  "coffee_type_id" : "4",
@@ -57,6 +70,10 @@
           "id" : 152,
           "imageName": "1743fsahdh388.jpeg"
         }
-      ]
+      ],
+  "streets": [
+    "address1",
+    "address2"
+  ]
 }
 ]
