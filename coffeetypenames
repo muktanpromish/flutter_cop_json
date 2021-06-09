@@ -1,0 +1,22 @@
+[
+{
+“coffee_type_id” : “1”,
+ “coffee_type_name” : “Espresso”,
+ “coffee_type_icon_url: “http://placehold.it/150/92c952”
+},
+{
+ “coffee_type_id” : “2”,
+ “coffee_type_name” : “Latte”,
+ “coffee_type_icon_url: “http://placehold.it/150/92c952”
+},
+{
+“coffee_type_id” : “3”,
+ “coffee_type_name” : “Cappuccino”,
+ “coffee_type_icon_url: “http://placehold.it/150/92c952”
+},
+{
+ “coffee_type_id” : “4”,
+ “coffee_type_name” : “Mocha”,
+ “coffee_type_icon_url: “http://placehold.it/150/92c952”
+}
+]
