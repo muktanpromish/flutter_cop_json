@@ -2,7 +2,7 @@
 {
 "coffee_recipe_id" : "1",
 "recipe_name" : "Caramel Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-caramellatte.PNG",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG",
 "coffee_type_id" : "2",
 "preptime" : "5 mins",
 "video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
@@ -15,18 +15,18 @@
 "images": [
         {
           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-caramellatte.PNG"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         },
         {
           "id" : "152",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-caramellatte.PNG"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         }
       ]
 },
 {
 "coffee_recipe_id" : "2",
 "recipe_name" : "Mocha Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-mochalatte.PNG",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG",
 "coffee_type_id" : "2",
 "preptime" : "5 mins",
 "video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
@@ -39,18 +39,18 @@
 "images": [
         {
            "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-mochalatte.PNG"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
         },
         {
           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-mochalatte.PNG"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
         }
       ]
 },
 {
 "coffee_recipe_id" : "3",
 "recipe_name" : "Iced Cappuccino",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-icedcap.png",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png",
 "coffee_type_id" : "3",
 "preptime" : "5 mins",
 "video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
@@ -63,18 +63,18 @@
 "images": [
         {
            "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-icedcap.png"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
         },
         {
            "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-icedcap.png"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
         }
       ]
 },
 {
 "coffee_recipe_id" : "4",
 "recipe_name" : "Wet Cappuccino",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-wetcap.jpg",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg",
 "coffee_type_id" : "3",
 "preptime" : "5 mins",
 "video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
@@ -87,11 +87,11 @@
 "images": [
         {
           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-wetcap.jpg"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
         },
         {
            "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-wetcap.jpg"
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
         }
       ]
 }
