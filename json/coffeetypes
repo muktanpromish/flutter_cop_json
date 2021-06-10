@@ -1,25 +1,25 @@
 [{
  "coffee_type_id" : "1",
  "coffee_type_name" : "Macchiator",
- "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeetypeicons/macchiator.png"
+ "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeetypeicons/macchiator.png"
 },
  {
  "coffee_type_id" : "2",
  "coffee_type_name" : "Latte",
-  "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeetypeicons/latte.png"
+  "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeetypeicons/latte.png"
 },
  {
  "coffee_type_id" : "3",
  "coffee_type_name" : "Cappuccino",
- "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeetypeicons/cappuccino.png"
+ "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeetypeicons/cappuccino.png"
 },
  {
  "coffee_type_id" : "4",
  "coffee_type_name" : "Mocha",
- "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeetypeicons/mocha.png"
+ "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeetypeicons/mocha.png"
 },
  {
  "coffee_type_id" : "5",
  "coffee_type_name" : "Frappe",
- "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeetypeicons/frappe.png"
+ "coffee_type_icon_url": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeetypeicons/frappe.png"
 }]
