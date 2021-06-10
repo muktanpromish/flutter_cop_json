@@ -8,19 +8,19 @@
 "description" : "Lear how to make an easy and delicious mocha latte!",
 "ingredients" : "testing…",
 "instructions" : "testing…",
-"difficulty_level" : "Medium”,
+"difficulty_level" : "Medium",
 "recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
 "serving_size" : "1 cup",
 "images": [
         {
-          "id" : 122,
+          "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-caramellatte.PNG"
         },
         {
-          "id" : 152,
+          "id" : "152",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-caramellatte.PNG"
         }
-      ],
+      ]
 },
 {
 "coffee_recipe_id" : "2",
@@ -32,19 +32,19 @@
 "description" : "Lear how to make an easy and delicious mocha latte!",
 "ingredients" : "testing…",
 "instructions" : "testing…",
-"difficulty_level" : "Medium”,
+"difficulty_level" : "Medium",
 "recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
 "serving_size" : "1 cup",
 "images": [
         {
-          "id" : 122,
+           "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-mochalatte.PNG"
         },
         {
-          "id" : 152,
+          "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/latte-mochalatte.PNG"
         }
-      ],
+      ]
 },
 {
 "coffee_recipe_id" : "3",
@@ -56,19 +56,19 @@
 "description" : "Lear how to make an easy and delicious mocha latte!",
 "ingredients" : "testing…",
 "instructions" : "testing…",
-"difficulty_level" : "Medium”,
+"difficulty_level" : "Medium",
 "recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
 "serving_size" : "1 cup",
 "images": [
         {
-          "id" : 122,
+           "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-icedcap.png"
         },
         {
-          "id" : 152,
+           "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-icedcap.png"
         }
-      ],
+      ]
 },
 {
 "coffee_recipe_id" : "4",
@@ -80,18 +80,18 @@
 "description" : "Lear how to make an easy and delicious mocha latte!",
 "ingredients" : "testing…",
 "instructions" : "testing…",
-"difficulty_level" : "Medium”,
+"difficulty_level" : "Medium",
 "recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
 "serving_size" : "1 cup",
 "images": [
         {
-          "id" : 122,
+          "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-wetcap.jpg"
         },
         {
-          "id" : 152,
+           "id" : "122",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/coffeerecipesimages/cap-wetcap.jpg"
         }
-      ],
+      ]
 }
 ]
