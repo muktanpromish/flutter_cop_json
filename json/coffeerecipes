@@ -21,4 +21,30 @@
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         }
       ]
-}]
+},
+
+{
+"coffee_recipe_id" : "2",
+"recipe_name" : "Vanilla Latte",
+"thumbnail_url" : "https://www.tasteslovely.com/wp-content/uploads/2017/06/Whole30-Vanilla-Latte-Coffee-a-dairy-free-refined-sugar-free-Whole30-approved-and-paleo-vanilla-latte-that-is-better-than-Starbucks-1.jpg",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=tRCguVe5VsM",
+"description" : "This is an easy espresso drink to make with your home espresso machine--steamed milk and a shot of espresso with vanilla flavoring.",
+"ingredients" : "1 ¼ cups 2% milk 2 tablespoons vanilla flavored syrup 1 (1.5 fluid ounce) jigger brewed espresso",
+"instructions" : "Pour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand. Measure the vanilla syrup into a large coffee mug. Brew espresso, then add to mug. Pour the steamed milk into the mug, using a spoon to hold back the foam. Spoon foam over the top.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/146963/vanilla-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+}
+]
