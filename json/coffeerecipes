@@ -22,7 +22,6 @@
         }
       ]
 },
-
 {
 "coffee_recipe_id" : "2",
 "recipe_name" : "Vanilla Latte",
@@ -46,5 +45,134 @@
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         }
       ]
+},
+{
+"coffee_recipe_id" : "3",
+"recipe_name" : "Caramel latte",
+"thumbnail_url" : "https://bakingmischief.com/wp-content/uploads/2019/12/caramel-latte-image-square.jpg",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=tsyqQ5aAeFQ",
+"description" : "A Caramel Latte is one of the easiest sweet coffee recipes to make at home.",
+"ingredients" : "1 ¼ cups 2% milk 2 tablespoons vanilla flavored syrup 1 (1.5 fluid ounce) jigger brewed espresso",
+"instructions" : "Combine milk and brown sugar in a saucepan over medium heat. Heat until frothy and close to simmering, about 3 minutes. Reduce heat to low; whisk in caramel sauce and vanilla extract. Mix in coffee.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "4",
+"recipe_name" : "Macchiato",
+"thumbnail_url" : "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-005.jpg",
+"coffee_type_id" : "1",
+"preptime" : "10 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=pPxWxY7kXG4",
+"description" : "Here’s how to make a macchiato…the real way! This coffee drink features a shot of espresso topped with a layer of frothy foam.",
+"ingredients" : "2 espresso shots (2 ounces) 2 ounces (¼ cup) whole milk foam*",
+"instructions" : "Make the espresso: Use an espresso machine or manual espresso maker to make one shot of espresso* and pour it into a mug.Steam the milk (espresso machine) or heat the milk to scalding: Start with ½ cup milk (you’ll only use ¼ cup foam.) Heat the milk to 150 degrees Fahrenheit, which is hot to the touch but not simmering. Measure with a food thermometer, or you can approximate by testing with your finger.
+Froth the milk: Use the espresso machine or a milk frother, French press or whisk to froth milk into small, even bubbles. You’ll want lots of “dry foam” for a macchiato: the fluffy stuff! The milk frother is great for this type of foam.Spoon the foam on top: Use a spoon to remove the top of the foam (dry foam) and gently place it on top of the espresso. You should use about ¼ cup foam for one drink.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+},
+,
+{
+"coffee_recipe_id" : "5",
+"recipe_name" : "Iced Caramel Macchiato",
+"thumbnail_url" : "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-005.jpg",
+"coffee_type_id" : "1",
+"preptime" : "10 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=Zmo-Qp9zVSs",
+"description" : "Here’s how to make a macchiato…the real way! This coffee drink features a shot of espresso topped with a layer of frothy foam.",
+"ingredients" : "2 espresso shots (2 ounces) 2 ounces (¼ cup) whole milk foam*",
+"instructions" : "Make the espresso: Use an espresso machine or manual espresso maker to make one shot of espresso* and pour it into a mug.Steam the milk (espresso machine) or heat the milk to scalding: Start with ½ cup milk (you’ll only use ¼ cup foam.) Heat the milk to 150 degrees Fahrenheit, which is hot to the touch but not simmering. Measure with a food thermometer, or you can approximate by testing with your finger.
+Froth the milk: Use the espresso machine or a milk frother, French press or whisk to froth milk into small, even bubbles. You’ll want lots of “dry foam” for a macchiato: the fluffy stuff! The milk frother is great for this type of foam.Spoon the foam on top: Use a spoon to remove the top of the foam (dry foam) and gently place it on top of the espresso. You should use about ¼ cup foam for one drink.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "6",
+"recipe_name" : "Vegan Skinny Caramel Macchiato",
+"thumbnail_url" : "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-005.jpg",
+"coffee_type_id" : "1",
+"preptime" : "10 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=uQFesLGfdH4",
+"description" : "Here’s how to make a macchiato…the real way! This coffee drink features a shot of espresso topped with a layer of frothy foam.",
+"ingredients" : "2 espresso shots (2 ounces) 2 ounces (¼ cup) whole milk foam*",
+"instructions" : "Make the espresso: Use an espresso machine or manual espresso maker to make one shot of espresso* and pour it into a mug.Steam the milk (espresso machine) or heat the milk to scalding: Start with ½ cup milk (you’ll only use ¼ cup foam.) Heat the milk to 150 degrees Fahrenheit, which is hot to the touch but not simmering. Measure with a food thermometer, or you can approximate by testing with your finger.
+Froth the milk: Use the espresso machine or a milk frother, French press or whisk to froth milk into small, even bubbles. You’ll want lots of “dry foam” for a macchiato: the fluffy stuff! The milk frother is great for this type of foam.Spoon the foam on top: Use a spoon to remove the top of the foam (dry foam) and gently place it on top of the espresso. You should use about ¼ cup foam for one drink.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "7",
+"recipe_name" : "The Perfect Cappuccino",
+"thumbnail_url" : "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-005.jpg",
+"coffee_type_id" : "3",
+"preptime" : "3 mins",
+"video_link_url" : "https://youtu.be/-j2IhKTMb4c",
+"description" : "Here’s how to make a macchiato…the real way! This coffee drink features a shot of espresso topped with a layer of frothy foam.",
+"ingredients" : "2 espresso shots (2 ounces) 2 ounces (¼ cup) whole milk foam*",
+"instructions" : "Make the espresso: Use an espresso machine or manual espresso maker to make one shot of espresso* and pour it into a mug.Steam the milk (espresso machine) or heat the milk to scalding: Start with ½ cup milk (you’ll only use ¼ cup foam.) Heat the milk to 150 degrees Fahrenheit, which is hot to the touch but not simmering. Measure with a food thermometer, or you can approximate by testing with your finger.
+Froth the milk: Use the espresso machine or a milk frother, French press or whisk to froth milk into small, even bubbles. You’ll want lots of “dry foam” for a macchiato: the fluffy stuff! The milk frother is great for this type of foam.Spoon the foam on top: Use a spoon to remove the top of the foam (dry foam) and gently place it on top of the espresso. You should use about ¼ cup foam for one drink.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
 }
+
+
+
+
 ]
