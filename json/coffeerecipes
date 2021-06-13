@@ -1,15 +1,15 @@
 [{
 "coffee_recipe_id" : "1",
-"recipe_name" : "Caramel Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG",
+"recipe_name" : "Cafe Latte",
+"thumbnail_url" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F188666.jpg&w=596&h=596&c=sc&poi=face&q=85",
 "coffee_type_id" : "2",
 "preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"video_link_url" : "https://www.youtube.com/watch?v=0PN0MwTcbxI",
+"description" : "This is for all fellow coffee drinkers. I love lattes but buying them can be pricey. So here's a recipe so you can make your own.",
+"ingredients" : "1 ⅓ cups hot freshly brewed dark roast espresso coffee. 2 cups milk",
+"instructions" : "Heat milk in a saucepan set over medium-low heat. Whisk briskly with a wire whisk to create foam. Brew espresso and pour into 4 cups. Pour in milk, holding back the foam with a spoon. Spoon foam over the top.",
 "difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"recipe_source_url" : "https://www.allrecipes.com/recipe/96629/cafe-latte/",
 "serving_size" : "1 cup",
 "images": [
         {
@@ -19,126 +19,6 @@
         {
           "id" : "152",
           "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
-        }
-      ]
-},
-{
-"coffee_recipe_id" : "2",
-"recipe_name" : "Mocha Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG",
-"coffee_type_id" : "2",
-"preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
-"serving_size" : "1 cup",
-"images": [
-        {
-           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
-        },
-        {
-          "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
-        }
-      ]
-},
-{
-"coffee_recipe_id" : "3",
-"recipe_name" : "Iced Cappuccino",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png",
-"coffee_type_id" : "3",
-"preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
-"serving_size" : "1 cup",
-"images": [
-        {
-           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
-        },
-        {
-           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
-        }
-      ]
-},
-{
-"coffee_recipe_id" : "4",
-"recipe_name" : "Wet Cappuccino",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-hazelnutlatte.PNG",
-"coffee_type_id" : "3",
-"preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
-"serving_size" : "1 cup",
-"images": [
-        {
-          "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
-        },
-        {
-           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
-        }
-      ]
-},
-{
-"coffee_recipe_id" : "1",
-"recipe_name" : "Caramel Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG",
-"coffee_type_id" : "2",
-"preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
-"serving_size" : "1 cup",
-"images": [
-        {
-          "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
-        },
-        {
-          "id" : "152",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
-        }
-      ]
-},
-{
-"coffee_recipe_id" : "2",
-"recipe_name" : "Mocha Latte",
-"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG",
-"coffee_type_id" : "2",
-"preptime" : "5 mins",
-"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
-"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-"difficulty_level" : "Medium",
-"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
-"serving_size" : "1 cup",
-"images": [
-        {
-           "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
-        },
-        {
-          "id" : "122",
-          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
         }
       ]
 }]
