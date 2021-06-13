@@ -1,213 +1,144 @@
-{ [
+[{
+"coffee_recipe_id" : "1",
+"recipe_name" : "Caramel Latte",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
         {
-            "coffee_recipe_id": "1",
-            "recipe_name": "Cafe Latte",
-            "thumbnail_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F188666.jpg&w=596&h=596&c=sc&poi=face&q=85",
-            "coffee_type_id": "2",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=0PN0MwTcbxI",
-            "description": "This is for all fellow coffee drinkers. I love lattes but buying them can be pricey. So here's a recipe so you can make your own.",
-            "ingredients": "1 ⅓ cups hot freshly brewed dark roast espresso coffee. 2 cups milk",
-            "instructions": "Heat milk in a saucepan set over medium-low heat. Whisk briskly with a wire whisk to create foam. Brew espresso and pour into 4 cups. Pour in milk, holding back the foam with a spoon. Spoon foam over the top.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/96629/cafe-latte/",
-            "serving_size": "2 cups"
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         },
         {
-            "coffee_recipe_id": "2",
-            "recipe_name": "Vanilla Latte",
-            "thumbnail_url": "https://www.tasteslovely.com/wp-content/uploads/2017/06/Whole30-Vanilla-Latte-Coffee-a-dairy-free-refined-sugar-free-Whole30-approved-and-paleo-vanilla-latte-that-is-better-than-Starbucks-1.jpg",
-            "coffee_type_id": "2",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=tRCguVe5VsM",
-            "description": "This is an easy espresso drink to make with your home espresso machine--steamed milk and a shot of espresso with vanilla flavoring.",
-            "ingredients": "1 ¼ cups 2% milk\r\n2 tablespoons vanilla flavored syrup\r\n1 (1.5 fluid ounce) jigger brewed espresso",
-            "instructions": "Pour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand. Measure the vanilla syrup into a large coffee mug. Brew espresso, then add to mug. Pour the steamed milk into the mug, using a spoon to hold back the foam. Spoon foam over the top.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/146963/vanilla-latte/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "3",
-            "recipe_name": "homemade caramel latte",
-            "thumbnail_url": "https://bakingmischief.com/wp-content/uploads/2019/12/caramel-latte-image-square.jpg",
-            "coffee_type_id": "2",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=tsyqQ5aAeFQ",
-            "description": "A Caramel Latte is one of the easiest sweet coffee recipes to make at home",
-            "ingredients": "½ cup milk\r\n1 tablespoon brown sugar\r\n1 tablespoon sugar-free caramel topping\r\n1 tablespoon caramel sauce\r\n¼ teaspoon vanilla extract\r\n1 cup coffee",
-            "instructions": "Combine milk and brown sugar in a saucepan over medium heat. Heat until frothy and close to simmering, about 3 minutes. Reduce heat to low; whisk in caramel sauce and vanilla extract. Mix in coffee.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/260904/homemade-caramel-latte/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "4",
-            "recipe_name": "Macchiato",
-            "thumbnail_url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-005.jpg",
-            "coffee_type_id": "1",
-            "preptime": "10 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=pPxWxY7kXG4",
-            "description": "Here’s how to make a macchiato…the real way! This coffee drink features a shot of espresso topped with a layer of frothy foam.",
-            "ingredients": "2 espresso shots (2 ounces)\r\n2 ounces (¼ cup) whole milk foam*",
-            "instructions": "Make the espresso: Use an espresso machine or manual espresso maker to make one shot of espresso* and pour it into a mug.\r\nSteam the milk (espresso machine) or heat the milk to scalding: Start with ½ cup milk (you’ll only use ¼ cup foam.) Heat the milk to 150 degrees Fahrenheit, which is hot to the touch but not simmering. Measure with a food thermometer, or you can approximate by testing with your finger.\r\nFroth the milk: Use the espresso machine or a milk frother, French press or whisk to froth milk into small, even bubbles. You’ll want lots of “dry foam” for a macchiato: the fluffy stuff! The milk frother is great for this type of foam.\r\nSpoon the foam on top: Use a spoon to remove the top of the foam (dry foam) and gently place it on top of the espresso. You should use about ¼ cup foam for one drink.",
-            "difficulty_level": "Hard",
-            "recipe_source_url": "https://www.acouplecooks.com/how-to-make-a-macchiato/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "5",
-            "recipe_name": "Iced Caramel Macchiato",
-            "thumbnail_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4529314.jpg&q=85",
-            "coffee_type_id": "1",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=Zmo-Qp9zVSs",
-            "description": "A perfect balance of coffee, vanilla, milk, and caramel makes a sweet and creamy summer drink. This popular drink can be made easily at home with an iced coffee concentrate like Gevalia® Cold Brew Concentrate - House Blend.",
-            "ingredients": "1 tablespoon vanilla-flavored syrup\r\n⅓ cup ice cubes\r\n¾ cup milk\r\n4 ounces Gevalia® Cold Brew Concentrate - House Blend\r\n1 tablespoon caramel sauce",
-            "instructions": "Step 1\r\nPour vanilla syrup into the bottom of a glass. Add ice cubes and pour in milk.\r\n\r\nStep 2\r\nSlowly pour in cold brew concentrate. Drizzle with caramel sauce.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/258686/iced-caramel-macchiato/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "6",
-            "recipe_name": "Vegan Skinny Caramel Macchiato",
-            "thumbnail_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9076150.jpg&q=85",
-            "coffee_type_id": "1",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=uQFesLGfdH4",
-            "description": "Making this layered drink is super easy in the Ninja Coffee Bar® or just heat and froth your milk of choice and pour over a strong cup of coffee. Aside from being delicious, it's vegan and skinny!",
-            "ingredients": "½ cup almond milk\r\n2 tablespoons sugar-free caramel flavoring syrup (such as Torani®)\r\n2 (1 gram) packets stevia sugar substitute (such as Truvia®)\r\n½ cup strong brewed coffee",
-            "instructions": "Step 1\r\nCombine almond milk, caramel syrup, and sweetener in a small saucepan and heat until hot. Froth milk mixture and add to mug, holding back froth with the back of a spoon.\r\n\r\nStep 2\r\nPour coffee over milk mixture. Add froth",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/278894/vegan-skinny-caramel-macchiato/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "7",
-            "recipe_name": "The Perfect Cappuccino",
-            "thumbnail_url": "https://www.thespruceeats.com/thmb/FQjAQBA9AdtbtttFyKrvoxyG_Ys=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-cappuccinos-766116-hero-01-a754d567739b4ee0b209305138ecb996.jpg",
-            "coffee_type_id": "3",
-            "preptime": "5 mins",
-            "video_link_url": "https://youtu.be/-j2IhKTMb4c",
-            "description": "A light, foamy cappuccino is a favorite drink for many coffee lovers. Once you acquire two basic barista skills (pulling shots and foaming milk), you can learn how to make a cappuccino yourself.",
-            "ingredients": "For the Espresso\r\n\r\n2 tablespoons finely ground dark roast coffee\r\n4 ounces water\r\nFor the Foamed Milk\r\n\r\n4 ounces milk",
-            "instructions": "Pour cold milk into a metal steaming pitcher, about a third full\r\nRelease steam from the steaming wand for two seconds to eliminate any residual water\r\nDip the tip of the steaming wand into milk and start frothing. As the foam rises and the volume of milk increases, lower the pitcher, always keeping the tip submerged and tilted to create a vortex. Do not mix unnecessarily (i.e. let the natural circulating action do the work)\r\nContinue steaming until the milk reaches 65 degrees (check via probe-style kitchen thermometer) and its volume doubles\r\nTap the base of the pitcher firmly on the countertop to compress the foam\r\nPrepare an espresso in a large cup (ideally, a cappuccino cup)\r\nPour the foamed milk directly into the cup, first aiming for the center, then continuing in a circular motion out toward the rim\r\nOperate the steam one more time to eliminate any remaining milk residue",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.illy.com/en-ww/coffee/coffee-preparation/how-to-make-cappuccino",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "8",
-            "recipe_name": "Iced Cappuccino",
-            "thumbnail_url": "https://i1.wp.com/portandfin.com/wp-content/uploads/2014/08/icedcap5.jpg?fit=677%2C453",
-            "coffee_type_id": "3",
-            "preptime": "15 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=7hzLML2uR74",
-            "description": "Iced Cappuccino",
-            "ingredients": "3 ounces espresso\r\n\r\n6 to 8 ice cubes\r\n\r\n3 to 4 ounces whole milk\r\n\r\n3 to 4 ounces milk froth, steamed and foamed",
-            "instructions": "Using an espresso bean grinder, grind some espresso beans to make 1 tablespoon of ground coffee. Using a commercial espresso machine, put the 1 tablespoon of ground coffee into the portafilter (the cupped handle) and tamp the grounds lightly. Insert the portafilter into the machine and place your glass or cup underneath. Set the machine for a double shot and turn it on to extract the espresso, which should be a thick golden brown crema.\r\nAdd 6 to 8 ice cubes to a mixing glass and pour the espresso over the cubes. Stir to bring the temperature down. Using a spoon or strainer, strain the cooled espresso into a serving glass, leaving the ice behind (if desired, ice can be included or added later). Add the cold milk to the cooled espresso in the serving glass.\r\nUsing the steam wand of the espresso machine, steam the whole milk so that a tight, small-bubble, microfoam is created. Using a spoon, add only the tight microfoam (about 3 to 4 ounces or an amount equal to the other parts) to the milk and espresso. Serve without any garnishes so as not to mask the delightful flavors. Serve immediately.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.foodnetwork.com/recipes/iced-cappuccino-recipe-1942750",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "9",
-            "recipe_name": "French Vanilla Cappuccino",
-            "thumbnail_url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2018/10/French-Vanilla-Cappucino-29.jpg",
-            "coffee_type_id": "3",
-            "preptime": "10 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=oHnZ6TWhEeA",
-            "description": "Once you try this French Vanilla Cappuccino at home, you'll know why. It is so easy, so...heavenly. I may never leave home again.",
-            "ingredients": "French Vanilla Coffee - in grounds or in K-Cups\r\nMilk - 2% or whole\r\nVanilla - just a splash\r\nBrown sugar - how much is up to you\r\nHandheld blender -  can also use an electric mixer\r\nMetal cup - bet you can do it in anything, though\r\nCoffee mug - only your favorite will do",
-            "instructions": "Brew coffee to desired strength. Keep hot.\r\nIn a small saucepan, heat the milk and vanilla over medium low heat. Stir and cook until bubbly, for about 5 minutes. Stir frequently.\r\nRemove the milk from heat and stir in the brown sugar until dissolved. \r\nPour the sweetened hot milk into a metal or glass cup. Using a handheld immersion blender, whip the milk until frothy. Incorporate as much air as possible for the most froth.\r\nPour the brewed coffee evenly into two coffee mugs. Fill each to the top with the hot milk mixture. Spoon froth over the top.\r\nSprinkle the top of each cappuccino with crushed peppermint candies if desired. Serve hot.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://buythiscookthat.com/french-vanilla-cappuccino/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "10",
-            "recipe_name": "Caffè mocha",
-            "thumbnail_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mocha-001-8301418.jpg?quality=90&webp=true&resize=300,272",
-            "coffee_type_id": "4",
-            "preptime": "3 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=aEHBmi1927g",
-            "description": "If you have a coffee machine, treat yourself to a comforting, chocolatey mocha. You don't need to be a trained barista with our easy recipe",
-            "ingredients": "18g ground espresso, or 1 espresso pod\r\n250ml milk\r\n1 tsp drinking chocolate\r\nYou will also need\r\nlarge cup, 300-350ml capacity",
-            "instructions": "STEP 1\r\nMake around 35ml espresso using a coffee machine and pour into the base of your cup. Add the drinking chocolate and mix well until smooth.\r\n\r\nSTEP 2\r\nSteam the milk with the steamer attachment so that it has around 4-6cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
-            "difficulty_level": "Easy",
-            "recipe_source_url": "https://www.bbcgoodfood.com/recipes/mocha",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "11",
-            "recipe_name": "Iced Mochas",
-            "thumbnail_url": "https://easyweeknightrecipes.com/wp-content/uploads/2020/08/Mocha-Iced-Coffee-5.jpg",
-            "coffee_type_id": "4",
-            "preptime": "5 mins ",
-            "video_link_url": "https://www.youtube.com/watch?v=KnL-kmGGLjQ",
-            "description": "All of my friends rave about these frosty drinks. I pour my leftover coffee in ice cube trays and keep them on hand all the time. You can make fun squiggly designs on insides of glasses with chocolate syrup, before pouring mochas. Top with whipped cream.",
-            "ingredients": "1 ½ cups cold coffee\r\n2 cups milk\r\n¼ cup chocolate syrup\r\n¼ cup white sugar",
-            "instructions": "Step 1\r\nPour coffee into ice cube tray. Freeze until solid, or overnight.\r\n\r\nStep 2\r\nIn a blender, combine coffee ice cubes, milk, chocolate syrup and sugar. Blend until smooth. Pour into glasses and serve.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.allrecipes.com/recipe/32521/iced-mochas/",
-            "serving_size": "4 cups"
-        },
-        {
-            "coffee_recipe_id": "12",
-            "recipe_name": "Mocha Madness",
-            "thumbnail_url": "https://img.taste.com.au/2V613y5W/w643-h428-cfill-q90/taste/2016/11/mocha-madness-65842-1.jpeg",
-            "coffee_type_id": "4",
-            "preptime": "10 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=TOIlHPmXgLE",
-            "description": "Perk up your day or night with this decadent hot chocolate and espresso combination.",
-            "ingredients": "2 tbsp drinking chocolate\r\n2 double shots (120ml) hot espresso coffee\r\nWhipped cream, to serve\r\nChocolate topping, to serve",
-            "instructions": "Step 1\r\nPlace drinking chocolate in a heatproof jug. Gradually add hot coffee, stirring, until smooth and combined.\r\nStep 2\r\nDivide coffee mixture between 2 heatproof glasses. Dollop with cream and drizzle with a little chocolate topping. Serve.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.taste.com.au/recipes/mocha-madness/6e6f67a6-10b6-4ac5-bea0-f0bed7759ecd",
-            "serving_size": "2 cups"
-        },
-        {
-            "coffee_recipe_id": "13",
-            "recipe_name": "STARBUCKS STRAWBERRY FUNNEL CAKE FRAPPUCCINO",
-            "thumbnail_url": "https://milkandpop.com/wp-content/uploads/2021/05/starbucks-strawberry-funnel-cake-frappuccino-13.jpg",
-            "coffee_type_id": "5",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=FP0UDlif6HE",
-            "description": "Starbucks Strawberry Funnel Cake Frappuccino will make you feel you’re at a Carnival! Made with strawberry puree, lots of whipped cream and sugar funnel cake sprinkles, this frappe is one you NEED to try this summer!",
-            "ingredients": "¾ cup sugar\r\n1 tsp cinnamon\r\n¼ tsp salt\r\n1 tbsp butter, melted\r\n1 tsp vanilla extract\r\n3 tbsp all-purpose flour",
-            "instructions": "For the sugar funnel cake sprinkles, mix sugar, cinnamon, salt, melted butter, vanilla extract and all-purpose flour.\r\nIn a pan, over medium-high heat, cook the mixture for 2 minutes. Toss a few times, being careful not to burn the sugar, or let it melt. Watch the video for a better visual explanation.\r\nAfter 2 minutes it will start to form small clumps. Turn heat to low and cook for 6 minutes more, stirring every minute to prevent sugar from sticking to the pan. It will look drier and firmer after 6 minutes.\r\nLet it cool over a baking sheet.\r\nFor the strawberry puree, blend strawberries with sugar, vanilla and lemon juice.\r\nSimmer for 5 minutes over medium-high heat.\r\nLet it cool for 30 minutes before using.\r\nFor the funnel cake syrup, heat 1 ¼ cup of water with 1 cinnamon stick and ⅛ teaspoon of salt. Let it boil for 5 minutes. Remove cinnamon stick.\r\nIn a saucepan, heat 1 cup of granulated sugar over medium-high heat until it begins to melt. Stir to check if the sugar is not burning.\r\nWhen the sugar starts to brown, add the cinnamon boiling water carefully, stirring quickly. Turn heat to low and keep stirring for 30 seconds more, until homogeneous. Careful for the sugar not to burn.\r\nRemove from heat and let it cool before storing.\r\nWith all ingredients ready, let’s start the base. Check notes to get the recipe for the cream base. Blend coffee, milk, funnel cake syrup and ice until smooth.\r\nAdd whipped cream to the bottom of the cup and top it with strawberry puree.\r\nPour the base over it, topping with more whipped cream and strawberry puree.\r\nSprinkle the funnel cake sugar. Serve right away!",
-            "difficulty_level": "hard",
-            "recipe_source_url": "https://milkandpop.com/starbucks-strawberry-funnel-cake-frappuccino/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "14",
-            "recipe_name": "Mocha Cookie Crumble Frappuccino",
-            "thumbnail_url": "https://www.keyingredient.com/media/77/b6/55b6d9b65cd3db5506bf13c4c0ee3d5f5231.jpg/rh/mocha-cookie-crumble-frappicino.jpg",
-            "coffee_type_id": "5",
-            "preptime": "5 mins",
-            "video_link_url": "https://www.youtube.com/watch?v=JOgWLf8j3d8",
-            "description": "When a plain mocha frappuccino isn’t enough to hit the spot, the added bonus of Oreo sandwich cookies saves the day, adding an extra layer of chocolate goodness that you didn’t even know you needed.",
-            "ingredients": "1/2 cup milk\r\n1 cup of strong brewed coffee\r\n4 tablespoons of chocolate syrup\r\n1/2 cup of chocolate chips\r\n8 crushed Oreo cookies\r\n1-2 cups of ice\r\nWhipped cream\r\nA blender",
-            "instructions": "STEP 1:\r\nStart by brewing a cup of your favorite strong coffee or a shot of espresso; for a better-tasting result, you’ll want it to be as fresh as possible, so consider grinding your own beans for your brew.STEP 2:\r\nThen, add the crushed Oreos (save a few cookie crumbs — you’ll need them later!), chocolate chips, milk, chocolate syrup, and coffee to the blender and pulse until the mixture is smooth. Feel free to use whatever milk you prefer; whether you opt to use whole milk or vegan-friendly nut milk, the mocha cookie crumble frappuccino will still be creamy and delicious.\r\n\r\nCookie Ingredients \r\nSTEP 3:\r\nOnce your mixture is evenly blended, add your ice to the blender. Remember, the amount of ice you use will determine how thick your drink will be, so keep that in mind as you decide whether one cup or two is best. Blend until the mixture thickens.\r\n\r\nBlended Frappuccino\r\nSTEP 4:\r\nPour your blended coffee drink into a glass, and top it with whipped cream and crushed Oreo cookies. For an extra burst of sweet goodness, drizzle a bit of chocolate syrup on top of it, too — absolutely delicious.\r\n\r\n",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://www.roastycoffee.com/mocha-cookie-crumble-frappuccino-recipe/",
-            "serving_size": "1 cup"
-        },
-        {
-            "coffee_recipe_id": "15",
-            "recipe_name": "Homemade Frappe",
-            "thumbnail_url": "https://i0.wp.com/mediterraneanlatinloveaffair.com/wp-content/uploads/2019/07/4-frappe-versions.jpg?resize=768%2C512&ssl=1",
-            "coffee_type_id": "5",
-            "preptime": "3 mins",
-            "video_link_url": "https://youtu.be/bAnawgt-jVY",
-            "description": "This is a simple Frappe recipe that will teach you how to make this amazing cold coffee at home. See post for more details on how to make 3 variations of Frappe as well.",
-            "ingredients": "2 tbsps Nescafe Instant Coffee I use 2 tbsps per person, but you can adjust to taste when you mix with water or milk.\r\n1 tsps sugar you can make the coffee sugarless if you like, this is just a guideline.\r\n1 tsps water for whipping\r\nadd ice & cold water to fill the glass",
-            "instructions": "Mix the instant coffee with water and sugar.\nWhip by hand or with an electrical hand held mixer. Usually if making 1-2 servings you can easily mix by hand as shown in the video, but if making more coffees it's preferable to use the hand held mixer.\nSee post for more instructions on technique and when to realize that coffee cream is ready.\nAdd to tall individual glasses, add ice and cold water. The traditional Frappe only requires cold water on top of coffee and ice. Mix well and let it rest a minute or two so it get frothy on top.\nIf you are preparing any variations of Frappe, then add milk or ice cream to taste. See post for more details.",
-            "difficulty_level": "Medium",
-            "recipe_source_url": "https://mediterraneanlatinloveaffair.com/frappe-homemade-cold-coffees/#wprm-recipe-container-1669",
-            "serving_size": "2 cups"
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
         }
-    ]
-}
+      ]
+},
+{
+"coffee_recipe_id" : "2",
+"recipe_name" : "Mocha Latte",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
+        {
+           "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
+        },
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "3",
+"recipe_name" : "Iced Cappuccino",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png",
+"coffee_type_id" : "3",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
+        {
+           "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
+        },
+        {
+           "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-icedcap.png"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "4",
+"recipe_name" : "Wet Cappuccino",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-hazelnutlatte.PNG",
+"coffee_type_id" : "3",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
+        },
+        {
+           "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/cap-wetcap.jpg"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "1",
+"recipe_name" : "Caramel Latte",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        },
+        {
+          "id" : "152",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-caramellatte.PNG"
+        }
+      ]
+},
+{
+"coffee_recipe_id" : "2",
+"recipe_name" : "Mocha Latte",
+"thumbnail_url" : "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG",
+"coffee_type_id" : "2",
+"preptime" : "5 mins",
+"video_link_url" : "https://www.youtube.com/watch?v=K9WO_3WGU4Y",
+"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"ingredients" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"instructions" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"difficulty_level" : "Medium",
+"recipe_source_url" : "www.milkandpop.com/starbucks-mocha-latte",
+"serving_size" : "1 cup",
+"images": [
+        {
+           "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
+        },
+        {
+          "id" : "122",
+          "imageName": "https://raw.githubusercontent.com/muktanpromish/flutter_cop_json/main/images/coffeerecipesimages/latte-mochalatte.PNG"
+        }
+      ]
+}]
